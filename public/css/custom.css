@@ -1,0 +1,249 @@
+html, body {
+   background-color: #eee;
+ }
+ body {
+   padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
+ }
+ .container > footer p {
+   text-align: center; /* center align it with the container */
+ }
+ /*.container {
+   width: 820px; /* downsize our container to make the content feel a bit tighter and more cohesive. NOTE: this removes two full columns from the grid, meaning you only go to 14 columns and not 16.
+ }*/
+
+ /* The white background content wrapper */
+ .content {
+   background-color: #fff;
+   padding: 20px;
+   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+   -webkit-border-radius: 0 0 6px 6px;
+   -moz-border-radius: 0 0 6px 6px;
+   border-radius: 0 0 6px 6px;
+   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+   -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+   box-shadow: 0 1px 2px rgba(0,0,0,.15);
+ }
+
+ /* Page header tweaks */
+ .page-header {
+   background-color: #f5f5f5;
+   padding: 20px 0px 20px;
+   margin: -20px -20px 20px;
+ }
+
+ .page-header form {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+ /* Classe da aggiungere a class="row" per impostare altezza minima */
+ .min-h > div {
+   min-height: 500px;
+ }
+
+ /* Span 3 e 4 con bordo sinistro 1px e margine 19px */
+ .content .span4,
+ .content .span3 {
+   margin-left: 0;
+   padding-left: 19px;
+   border-left: 1px solid #eee;
+ }
+
+/* Bottone nella topbar */
+ .topbar .btn {
+   border: 0;
+ }
+
+/* Imposta spazio verticale span in navbar */
+.nav > li > span {
+    display: block;
+    float: none;
+    padding: 10px 10px 11px;
+    text-decoration: none;
+}
+
+/* label colorate */
+.nav > li > span.label {
+    padding: 0px 3px 0px;
+	margin-top: 11px;
+}
+
+/* Table loop custom */
+table.loop-list {
+	width: 97.5%;
+	margin-top: 18px;
+}
+
+.span16 > table.loop-list {
+	width: 100%;
+	margin-top: 18px;
+}
+
+table.loop-list .p10p {
+	width: 10%;
+}
+
+table.loop-list .p20p {
+	width: 20%;
+}
+
+table.loop-list .p25p {
+	width: 25%;
+}
+
+table.loop-list .p30p {
+	width: 30%;
+}
+
+table.loop-list .p33p {
+	width: 33%;
+}
+
+table.loop-list .p40p {
+	width: 40%;
+}
+
+table.loop-list .p50p {
+	width: 50%;
+}
+
+table.loop-list .p60p {
+	width: 60%;
+}
+
+table.loop-list .p70p {
+	width: 70%;
+}
+
+table.loop-list .side-grid > a {
+	margin: 0;
+}
+
+/*form margin top*/
+form {
+	margin-top: 18px;
+	margin-bottom: 0px;
+	padding: 0;
+}
+
+/* Filter list */
+.filter-select {
+	margin-top: 18px;
+}
+
+/* Form stacked label bottom adjust */
+.form-stacked label {
+	margin-bottom: 5px;
+}
+
+/* ALERT ERROR */
+
+.clearfix > .alert-message {
+   margin-top: 18px;
+   margin-bottom: 0px;
+   margin-left: 150px;
+   display: table;
+}
+
+.form-stacked .clearfix > .alert-message {
+   margin-left: 0px;
+}
+
+/* SIDE WRAP */
+.side-wrap {
+	/*height: 500px;*/
+	margin-right: -20px;
+	overflow: auto;
+	/*padding-top: 18px;
+	margin-bottom: 18px;*/
+}
+
+/* RESET MARGIN BOTTOM LAST ELEMENT */
+fieldset:last-child {
+	margin-bottom: 0px;
+}
+
+div.actions:last-child {
+	margin-bottom: 0px;
+}
+
+/* SIDE GRID */
+.side-grid {
+	list-style: none;
+	margin: 18px 0;
+	clear: both;
+}
+.side-grid li {
+	display: block;
+	clear: both;
+}
+.side-grid li > span {
+	display: block;
+	float: right;
+	margin-left: 10px;
+	width: 110px;
+	font-size: 80%;
+}
+.side-grid a {
+	display: block;
+  	float: left;
+  	padding: 4px;
+  	margin: 0px 0px 20px 0px;
+  	border: 1px solid #ddd;
+  	-webkit-border-radius: 4px;
+  	-moz-border-radius: 4px;
+  	border-radius: 4px;
+  	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+  	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+  	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.side-grid a img {
+  	display: block;
+}
+.side-grid a:hover {
+  	border-color: #0069d6;
+  	-webkit-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+  	-moz-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+  	box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+}
+
+/* CATEGORIE */
+
+.cat-box {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    -moz-transition: all 0.1s linear 0s;
+    background-color: #E6E6E6;
+    background-image: -moz-linear-gradient(center top , #FFFFFF, #FFFFFF 25%, #E6E6E6);
+    background-repeat: no-repeat;
+    border-color: #CCCCCC #CCCCCC #BBBBBB;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    color: #333333;
+    display: inline-block;
+    font-size: 13px;
+    line-height: normal;
+    padding: 5px 14px 6px;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+	
+	margin-top: 9px;
+}
+
+.cat-box:first-child {
+	margin-top: 18px;
+}
+
+.cat-box p {
+	float: left;
+	margin-top: 6px;
+	margin-bottom: 0;
+}
+
+.cat-box span {
+	float: right;
+}

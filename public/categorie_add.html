@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Nuova Categoria | PongoCMS</title>
+	
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/custom.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+	<script src="js/bootstrap-dropdown.js"></script>
+	<script src="js/cms.js"></script>
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	
+	<div class="topbar">
+    	<div class="fill">
+        	<div class="container">
+          		<a class="brand" href="#">PongoCMS</a>
+				<ul class="nav">
+					<li><a href="info.html">Info</a></li>
+					<li><a href="banner.html">Banner</a></li>
+					<li class="active"><a href="categorie.html">Categorie</a></li>
+					<li><a href="news.html">News</a></li>
+					<li><a href="prodotti.html">Prodotti</a></li>
+					<li><a href="pagine.html">Pagine</a></li>
+					<li><a href="utenti.html">Utenti</a></li>
+				</ul>
+				<ul class="nav">
+					<li class="dropdown" data-dropdown="dropdown">
+						<a class="dropdown-toggle" href="#">Lingua</a>
+						<ul class="dropdown-menu">
+							<li><a href="#">Italiano</a></li>
+							<li><a href="#">English</a></li>
+						</ul>
+					</li>
+					<li><span class="label warning">Italiano</span></li>
+				</ul>
+				<ul class="nav secondary-nav">
+					<li><span class="label">utente</span></li>
+					<li class="dropdown" data-dropdown="dropdown">						
+						<a class="dropdown-toggle" href="#">Admin</a>
+						<ul class="dropdown-menu">
+							<li><a href="#">Logout</a></li>
+						</ul>
+					</li>
+				</ul>
+        	</div>
+      	</div>
+    </div>
+
+    <div class="container">
+      	<div class="content">
+			<div class="row page-header">
+				<div class="span11">
+					<h1>Pongoweb.it <small>| Gestore dei contenuti</small></h1>
+				</div>
+				<div class="span5">
+					<form>
+						<input id="search-input" class="span5" type="text" placeholder="Cerca nei risultati..." />
+					</form>
+				</div>
+			</div>
+        	<div class="row">
+				<div class="span16">
+					<div class="row">
+						<div class="span14">
+							<h2>Modifica la categoria</h2>
+						</div>
+						<div class="span2">
+							<a href="categorie.html" class="btn primary pull-right">Torna</a>
+						</div>
+					</div>
+	          		<div class="row">
+						<div class="span16">
+							<form>
+								<fieldset>
+									<div class="clearfix">
+										<label>Nome categoria</label>
+										<div class="input">
+											<input class="span8" type="text" />
+										</div>
+									</div>
+									<div class="clearfix">
+										<label>Slug</label>
+										<div class="input">
+											<input class="span8" type="text" />
+										</div>
+									</div>
+									<div class="clearfix">
+										<label>Tipo di categoria</label>
+										<div class="input">
+											<select>
+												<option>CATEGORIA PADRE</option>
+											</select>
+										</div>
+									</div>
+									<div class="clearfix">
+										<label>Vista associata</label>
+										<div class="input">
+											<select>
+												<option>SELEZIONA VISTA</option>
+											</select>
+										</div>
+									</div>
+									<div class="clearfix">
+										<label>Ordine di visualizzazione</label>
+										<div class="input">
+											<input class="span1" type="text" />
+										</div>
+									</div>
+									<div class="clearfix">
+										<label>Voce nel menu principale</label>
+										<div class="input">
+											<ul class="inputs-list">
+												<li>
+													<label>
+														<input type="radio" value="option1" name="optionsRadio" checked="" />
+														<span>Si</span>
+													</label>
+												</li>
+												<li>
+													<label>
+														<input type="radio" value="option2" name="optionsRadio" checked="" />
+														<span>No</span>
+													</label>
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div class="actions">
+										<input class="btn primary" type="submit" value="Salva inserimento">
+										<button class="btn" type="reset">Annulla</button>
+									</div>
+								</fieldset>
+							</form>
+						</div>						
+					</div>
+				</div>
+        	</div>
+      	</div>
+
+      	<footer>
+        	<p>&copy; PongoWEB 2012</p>
+      	</footer>
+
+    </div> <!-- /container -->
+
+</body>
+</html>
