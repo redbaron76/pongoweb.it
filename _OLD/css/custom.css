@@ -1,0 +1,128 @@
+html, body {
+   background-color: #667e28;
+}
+
+.topbar {
+   font-family: 'Cousine', sans-serif;
+}
+
+.topbar .top-logo {
+   width: 151px;
+   height: 23px;
+   background: url('../img/pongo_logo_small.png') 20px 7px no-repeat;
+   overflow: hidden;
+   text-indent: -8000px;
+}
+
+#logo {
+   text-align: center;
+   margin: 0 auto;
+   padding: 70px 0;
+   padding-top: 90px;
+}
+
+#logo p {
+   font-family: 'Lato', sans-serif;
+   font-size: 28px;
+   text-transform: uppercase;
+}
+
+#like {
+   position: absolute;
+   top: -45px;
+   left: 330px;
+}
+
+.yellow p span {
+   font-weight: bold;
+   color: #667E28;
+}
+
+.yellow {
+   /*height: 200px;*/
+   background-color: #E6ECB5;
+   font-family: 'Abel', sans-serif;
+}
+
+.code {
+   margin-left: 20px;
+   font-family: 'Cousine', sans-serif;
+   font-size: 19px;
+   line-height: 28px;
+   white-space: pre-line;
+   color: #d4d4b4;
+   margin-bottom: 30px;
+}
+
+.code > .tab20 {margin-left: 20px;}
+.code > .tab40 {margin-left: 40px;}
+.code > .tab60 {margin-left: 60px;}
+.code > .tab80 {margin-left: 80px;}
+
+.code .intro {color: #76922e;}
+.code .comment {color: #b5d992;}
+.code .var {color: #404040;}
+.code .value {color: #dddf44;}
+.code .item {color: #cc9933;}
+
+.code a {color: inherit;}
+
+ul.executed {
+   width: 400px;
+   display: block;
+   height: 40px;
+   margin-bottom: 30px;
+}
+
+ul.executed li {
+   display: inline;
+   width: 200px;
+   height: 33px;
+   margin-left: 40px;
+   
+}
+
+.linkedin {
+   vertical-align: top;
+   display: inline-block;
+}
+
+#modal-execute {
+   padding: 10px;
+}
+
+#modal-execute p {
+   font-family: 'Cousine', sans-serif;
+   font-size: 12px;
+   padding: 0px;
+   line-height: 15px;
+   margin-bottom: 5px;
+   color: #000000;
+}
+
+.body {
+   position: relative;
+   margin: 0 auto;
+}
+
+.yellow > .container {
+   text-align: center;
+   margin: 0 auto;
+   padding: 70px 0;
+}
+
+.yellow > .container > p {
+   display: block;
+   font-size: 50px;
+   line-height: 50px;
+}
+
+#footer {
+   text-align: center;
+   margin: 0 auto;
+   padding: 20px 0;
+}
+
+#footer p {
+   font-size: 18px;
+}

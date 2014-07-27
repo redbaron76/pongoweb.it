@@ -1,0 +1,1137 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"la",
+				"lang"
+			],
+			[
+				"home",
+				"home_file"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"defa",
+				"default_data"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"Redi",
+				"Redirect	Laravel: Redirect::to()"
+			],
+			[
+				"page",
+				"page_base  (function)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"p",
+				"parse_slug  (function)"
+			],
+			[
+				"app",
+				"app_file"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"li",
+				"linear"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"sh",
+				"shell_exec"
+			],
+			[
+				"pub",
+				"public_path"
+			],
+			[
+				"co",
+				"controller_path"
+			],
+			[
+				"con",
+				"controllers"
+			],
+			[
+				"Migr",
+				"Laravel\\CLI\\Tasks\\Migrate\\Migrator  (class)"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"add_",
+				"addon_slug"
+			],
+			[
+				"add",
+				"addon_slug"
+			],
+			[
+				"slug",
+				"slugs"
+			],
+			[
+				"SLUG",
+				"SLUG_FULL"
+			],
+			[
+				"SLUG_",
+				"SLUG_FULL  (constant)"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"element",
+				"element_id  (variable)"
+			],
+			[
+				"cms",
+				"cmselement_id"
+			],
+			[
+				"where",
+				"where_not_in"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"source",
+				"_source"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"m",
+				"menu_id"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"full",
+				"full_path"
+			],
+			[
+				"list",
+				"list	list-style-type: other"
+			],
+			[
+				"disp",
+				"display	display: inline"
+			],
+			[
+				"str",
+				"strtoupper"
+			],
+			[
+				"extra",
+				"extra_id"
+			],
+			[
+				"ex",
+				"extras"
+			],
+			[
+				"last",
+				"last_segment"
+			],
+			[
+				"strre",
+				"str_replace"
+			],
+			[
+				"UR",
+				"URI	Laravel: URI::current()"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"patter",
+				"pattern"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"update",
+				"update_array"
+			],
+			[
+				"date",
+				"date_off"
+			],
+			[
+				"bann",
+				"bannerDatePicker"
+			],
+			[
+				"clo",
+				"clone_array"
+			],
+			[
+				"data",
+				"data-original-title=  (attribute)"
+			],
+			[
+				"pr",
+				"prev  (function)"
+			],
+			[
+				"che",
+				"checkDateTime"
+			],
+			[
+				"modal",
+				"modal-media"
+			],
+			[
+				"thu",
+				"thumbs"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"messa",
+				"messages"
+			],
+			[
+				"pre",
+				"prepend  (function)"
+			],
+			[
+				"re",
+				"recursive"
+			],
+			[
+				"role",
+				"role_level"
+			],
+			[
+				"edit",
+				"edit_role"
+			],
+			[
+				"substr",
+				"substr_count  (function)"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"pa",
+				"page_parent_slug"
+			],
+			[
+				"pare",
+				"parent_id"
+			],
+			[
+				"old",
+				"old_page"
+			],
+			[
+				"old_p",
+				"old_path"
+			],
+			[
+				"where_",
+				"where_cmspage_id"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"th",
+				"thumb_options"
+			],
+			[
+				"thumb",
+				"thumb_name"
+			],
+			[
+				"file_ex",
+				"file_ext"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"img",
+				"img_path"
+			],
+			[
+				"data-",
+				"data-toggle=  (attribute)"
+			],
+			[
+				"get",
+				"getPopOver"
+			],
+			[
+				"nw",
+				"new_element"
+			],
+			[
+				"new",
+				"new_element_attr"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"element_zone",
+				"element_zones"
+			],
+			[
+				"Cms",
+				"CmsFile  (class)"
+			],
+			[
+				"file_",
+				"file_name"
+			],
+			[
+				"uplo",
+				"upload_path"
+			],
+			[
+				"up",
+				"upload_path"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"ty",
+				"types  (variable)"
+			],
+			[
+				"pag",
+				"page_id"
+			],
+			[
+				"unique_",
+				"unique_lang"
+			],
+			[
+				"coun",
+				"counterElement"
+			],
+			[
+				"fu",
+				"full_slug"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"top",
+				"topcat"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"par",
+				"parent_id"
+			],
+			[
+				"border-c",
+				"border-color:   (property)"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"pro",
+				"processJsonPage"
+			],
+			[
+				"ti",
+				"title2Slug"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"k",
+				"keypress  (function)"
+			],
+			[
+				"vertic",
+				"vertical-align"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"fixed",
+				"fixed  (value)"
+			],
+			[
+				"pagehe",
+				"pageheader"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Red",
+				"Redirect	Laravel: Redirect::to_action()"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"View",
+				"View	Laravel: View::make()"
+			],
+			[
+				"La",
+				"Laravel"
+			],
+			[
+				"Route",
+				"Route	Laravel: Route::get()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/bundles.php",
+			"settings":
+			{
+				"buffer_size": 2344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bundles/cms/libraries/utilities.php",
+			"settings":
+			{
+				"buffer_size": 5437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bundles/cms/libraries/marker.php",
+			"settings":
+			{
+				"buffer_size": 31906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bundles/cms/views/theme/default/partials/markers/preview.blade.php",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"Pa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 220.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/pongoweb.it/laravel/application/config/database.php",
+		"/Applications/MAMP/htdocs/pongoweb.it/laravel/application/config/application.php",
+		"/Applications/MAMP/htdocs/finestrestrato.com/paths.php",
+		"/Applications/MAMP/htdocs/finestrestrato.com/application/config/application.php",
+		"/Applications/MAMP/htdocs/finestrestrato.com/application/config/local/application.php",
+		"/Applications/MAMP/htdocs/finestrestrato.com/application/config/database.php",
+		"/Applications/MAMP/htdocs/finestrestrato.com/application/bundles.php",
+		"/Applications/MAMP/htdocs/finestrestrato.com/application/config/session.php",
+		"/Applications/MAMP/htdocs/finestrestrato.com/bundles/cms/config/settings.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/partials/markers/lang_ddslick.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/partials/footer_default.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/libraries/render.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/libraries/marker.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/layouts/features.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/config/theme.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/templates/default.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/partials/header_default.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/public/css/site.css",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/partials/markers/social.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/default/partials/markers/social.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/layouts/default.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/layouts/home.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/web/bundles/cms/ckeditor/config.js",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/public/ckeditor/config.js",
+		"/Applications/MAMP/htdocs/pongocms.com/web/bundles/cms/js/cms.js",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/public/js/cms.js",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/controllers/ajax_page.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/views/theme/pongocms/partials/markers/menu.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/_OLD/bundles/cms/config/settings.php",
+		"/Applications/MAMP/htdocs/pongocms.com/bundles/cms/config/settings.php",
+		"/Applications/MAMP/htdocs/pongocms.com/_OLD/application/views/layouts/home.blade.php",
+		"/Applications/MAMP/htdocs/pongocms.com/storage/views/4769553a0b7acffdc4f58ea34a77472c",
+		"/Applications/MAMP/htdocs/pongocms.com/application/config/local/application.php",
+		"/Applications/MAMP/htdocs/pongocms.com/application/config/application.php",
+		"/Applications/MAMP/htdocs/pongocms.com/paths.php",
+		"/Applications/MAMP/htdocs/pongocms.com/web/.htaccess",
+		"/Applications/MAMP/htdocs/pongocms.com/storage/database/application.sqlite",
+		"/Applications/MAMP/htdocs/testlaravel.web/bundles/cms/views/theme/pongocms/layouts/home.blade.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/bundles/cms/views/theme/pongocms/layouts/white.blade.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/bundles/cms/views/theme/pongocms/partials/header_default.blade.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/bundles/cms/views/theme/pongocms/partials/footer_default.blade.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/bundles/cms/views/theme/pongocms/templates/default.blade.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/bundles/cms/views/theme/pongocms/layouts/default.blade.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/bundles/cms/libraries/render.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/application/config/application.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/application/config/database.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/paths.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/application/routes.php",
+		"/Applications/MAMP/htdocs/testlaravel.web/application/bundles.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/tasks/setup.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/templates/default.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/partials/header.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/public/css/cms.css",
+		"/Applications/MAMP/htdocs/laravel/public/bundles/cms/css/cms.css",
+		"/Applications/MAMP/htdocs/laravel/public/bundles/cms/js/cms.js",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/banner_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/blog_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/download_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/element_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/file_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/gallery_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/menu_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/page_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/role_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/tag_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/user_new_edit.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/config/theme.php",
+		"/Applications/MAMP/htdocs/laravel/public/bundles/cms/css/bootstrap-responsive.min.css",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/default_content",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/libraries/render.php",
+		"/Applications/MAMP/htdocs/laravel/application/routes.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/routes.php",
+		"/Applications/MAMP/htdocs/laravel/public/css/site.css",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/public/css/site.css",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/libraries/marker.php",
+		"/Applications/MAMP/htdocs/laravel/laravel/database/connection.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/libraries/utilities.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/libraries/helpers.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/partials/header_default.blade.php",
+		"/Applications/MAMP/htdocs/laravel/laravel/database/eloquent/model.php",
+		"/Applications/MAMP/htdocs/laravel/laravel/database/schema.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/partials/markers/social.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/partials/markers/menu.blade.php",
+		"/Applications/MAMP/htdocs/laravel/public/about.html",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/ajax_translation.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages/translation_list.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/translation.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/public/js/cms.js",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/models/cmspage.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/partials/markers/lang.blade.php",
+		"/Applications/MAMP/htdocs/laravel/application/config/local/application.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/templates/sitemap.blade.php",
+		"/Applications/MAMP/htdocs/laravel/public/home.html",
+		"/Applications/MAMP/htdocs/laravel/public/tutorial.html",
+		"/Applications/MAMP/htdocs/laravel/application/config/database.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/site.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/partials/markers/menu_nested.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/layouts/default.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/layouts/home.blade.php",
+		"/Applications/MAMP/htdocs/laravel/application/config/local/session.php",
+		"/Applications/MAMP/htdocs/laravel/application/config/session.php",
+		"/Applications/MAMP/htdocs/laravel/application/config/application.php",
+		"/Applications/MAMP/htdocs/laravel/application/config/local/database.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/partials/footer_default.blade.php",
+		"/Applications/MAMP/htdocs/laravel/application/config/auth.php",
+		"/Applications/MAMP/htdocs/laravel/laravel/cli/tasks/key.php",
+		"/Applications/MAMP/htdocs/laravel/application/bundles.php",
+		"/Applications/MAMP/htdocs/laravel/public/bundles/cms/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/config/settings.php",
+		"/Applications/MAMP/htdocs/laravel/application/controllers/site.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/partials/markers/login.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/views/theme/default/user/login.blade.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/_app_controllers/site.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/ajax_page.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/banner.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/blog.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/download.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/file.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/gallery.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/page.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/search.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/tag.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers/user.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/models/cmselement.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/language/en/form.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/language/en/label.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/language/en/marker.php",
+		"/Applications/MAMP/htdocs/laravel/bundles/cms/language/en/menu.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/laravel/bundles/cms/views/interface/pages",
+			"/Applications/MAMP/htdocs/laravel/laravel/database",
+			"/Applications/MAMP/htdocs/laravel/laravel",
+			"/Applications/MAMP/htdocs/laravel/laravel/database",
+			"/Applications/MAMP/htdocs/laravel/laravel",
+			"/Applications/MAMP/htdocs/laravel/bundles/cms",
+			"/Applications/MAMP/htdocs/laravel/laravel",
+			"/Applications/MAMP/htdocs/laravel",
+			"/Applications/MAMP/htdocs/laravel/bundles/cms",
+			"/Applications/MAMP/htdocs/laravel/bundles/cms/controllers",
+			"/Applications/MAMP/htdocs/laravel"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"css",
+			"span2 side",
+			"row tabbable tabs-left",
+			"tabbable tabs-left",
+			"function query",
+			"DB",
+			"public static function query",
+			"public static function create",
+			"ZONE",
+			"Z$ONE",
+			">ONE",
+			"$",
+			"{{ZONE",
+			"home_page",
+			"\">\n",
+			"Config::get('cms::theme.theme",
+			"Config::get('cms::design",
+			"cms::design",
+			"*",
+			"round",
+			"exec",
+			"A driver must be set before using the session.",
+			"Config::get('cms::design.template')",
+			"Config::get('cms::design.theme')",
+			"'templates.",
+			"'partials.",
+			"'layouts.",
+			"layouts.default",
+			"View::make('layouts.default')",
+			"'partials.",
+			"'templates.",
+			"'templates.'",
+			"cms::cms-interface.",
+			"cms::cms.",
+			"::pages.",
+			"::layouts.",
+			"::partials.",
+			"LL('cms::title.",
+			"LL('cms::cms.",
+			"cms::cms.",
+			"path",
+			"cms::cms.",
+			"cms::title.",
+			"session",
+			"CKHtmlTags",
+			"array_insert",
+			"file_pages",
+			"array_insert",
+			"LANG",
+			"settings.sections.interface",
+			"settings.interface",
+			"interface",
+			"								",
+			"left",
+			".left",
+			"left",
+			"trim",
+			"icon-exclamation-sign",
+			"bad",
+			"badge",
+			"!!",
+			"cache",
+			"popover_title_page",
+			"title.",
+			"details",
+			"lang",
+			"media",
+			"keyw",
+			"array_insert",
+			"get(",
+			"get()",
+			"access_id",
+			"blog_lang",
+			"role",
+			"gallery",
+			"blog",
+			"gallery",
+			"id",
+			"next_page",
+			"insert(",
+			"insert_joining",
+			"atetime_off",
+			"popover",
+			"results()",
+			"results",
+			"Session::put('LANG'",
+			"blog_owner",
+			"back_url",
+			"back",
+			"open-media-modal",
+			"CKInsertHtml",
+			"media",
+			"as_text",
+			"element",
+			"page",
+			"images/",
+			"png",
+			"ui",
+			"change_lang_index",
+			"/ajax/lang/page",
+			"/cms",
+			"page",
+			"menu",
+			"previe",
+			"popOver",
+			"details",
+			"has_many_and_belongs_to",
+			"pages",
+			"menu_pages",
+			"attach",
+			"menu",
+			"json",
+			"parse",
+			"url",
+			"media",
+			"data",
+			">",
+			"?",
+			"back_url",
+			"role_id",
+			"role_ok",
+			"required",
+			"master",
+			"count",
+			"star",
+			"session",
+			"fade",
+			"ck.js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"span2 side tabbable tabs-left",
+			"row",
+			"{{$ZONE",
+			"Config::get('cms::theme.name",
+			"Config::get('cms::theme",
+			"TEMPLATE",
+			"THEME",
+			"'cms::theme.'.Config::get('cms::design.theme').'.partials.",
+			"'cms::theme.'.Config::get('cms::design.theme').'.'partials.",
+			"'cms::theme.'.Config::get('cms::design.theme').'.",
+			"cms::interface.",
+			"cms::cms-interface.",
+			"::cms.pages.",
+			"::cms.layouts.",
+			"::cms.partials.",
+			"descr",
+			"tag",
+			"banner",
+			"download",
+			"blog",
+			"../img/",
+			"blog",
+			"LL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/bundles.php",
+					"settings":
+					{
+						"buffer_size": 2344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2344,
+								2344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2209,
+								2209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 301.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bundles/cms/libraries/utilities.php",
+					"settings":
+					{
+						"buffer_size": 5437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4316,
+								4316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2496.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bundles/cms/libraries/marker.php",
+					"settings":
+					{
+						"buffer_size": 31906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 16312.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bundles/cms/views/theme/default/partials/markers/preview.blade.php",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 445.0,
+	"status_bar_visible": true
+}

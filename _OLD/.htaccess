@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+     RewriteEngine on
+     RewriteBase /
+     
+     #Redirect multiple domain to main domain
+     RewriteCond %{HTTP_HOST} ^(pongoweb.it) [NC] 
+     RewriteRule ^(.*)$ http://www.pongoweb.it$1 [R=301,L]     
+
+</IfModule>
